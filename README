@@ -2,16 +2,25 @@
 Resources
 -----------------------------------------
 
- * http://railscasts.com/episodes/200-rails-3-beta-and-rvm
- * git://github.com/Sutto/hudson-rvmRake-plugin.git
- * git://github.com/csexton/rvm.vim.git
- * git://github.com/snusnu/testor.git
+### Core ###
  * git://github.com/wayneeseguin/rvm-site.git
  * git://github.com/wayneeseguin/rvm.git
+
+### Screencasts ###
+ * http://railscasts.com/episodes/200-rails-3-beta-and-rvm
+
+### Presentations ###
+ * git://github.com/rgabo/showoff-budapestrb-rvm.git
+
+### CI ###
+ * git://github.com/Sutto/hudson-rvmRake-plugin.git
+
+### Other ###
+ * git://github.com/csexton/rvm.vim.git
+ * git://github.com/snusnu/testor.git
  * git://github.com/spagalloco/rvmify.git
  * git://github.com/colszowka/rvm-completion.git
  * git://github.com/Sutto/rvmcasts.git
  * git://github.com/papercavalier/rvm-cookbook.git
  * git://github.com/darkhelmet/rvm-ruby-cranked-up-to-11.git
- * git://github.com/rgabo/showoff-budapestrb-rvm.git
  * git://github.com/stevenhaddox/rvm_fw.git
