@@ -1,1 +1,29 @@
-{ "name": "My Preso", "sections": [ {"section":"one"} ]}
+{
+  "name": "Ruby Version Manager (RVM): advocacy",
+  "sections": [
+    {
+      "section": "title"
+    },
+    {
+      "section": "intro"
+    },
+    {
+      "section": "who"
+    },
+    {
+      "section": "when"
+    },
+    {
+      "section": "what"
+    },
+    {
+      "section": "why"
+    },
+    {
+      "section": "how"
+    },
+    {
+      "section": "thanks"
+    }
+  ]
+}
